@@ -1,0 +1,37 @@
+{
+  "name": "kashier-gateway",
+  "version": "1.0.0",
+  "description": "This is the payment gateway integration of  Kashier",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo Error: no test specified && exit 1",
+    "build": "rimraf dist && tsc",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "kashier",
+    "kashier gateway",
+    "kashier payment gateway",
+    "kashier payment",
+    "kashier payment gateway integration",
+    "nodejs",
+    "nestjs",
+    "typescript",
+    "expressjs"
+  ],
+  "author": {
+    "name": "Alaa Elsaid",
+    "email": "elboray.alaa1@gmail.com",
+    "url": "https://alaahany.name"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/common": "^10.3.0",
+    "@types/node": "^20.11.0",
+    "crypto-ts": "^1.0.2",
+    "rimraf": "^5.0.5",
+    "rxjs": "^7.8.1",
+    "typescript": "^5.3.3"
+  }
+}

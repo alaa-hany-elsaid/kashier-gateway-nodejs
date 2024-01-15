@@ -1,0 +1,1 @@
+{"version":3,"file":"kashier-config.dto.d.ts","sourceRoot":"","sources":["../../../src/native/dto/kashier-config.dto.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,kBAAkB,EAAC,MAAM,gCAAgC,CAAC;AAClE,OAAO,EAAC,wBAAwB,EAAC,MAAM,qCAAqC,CAAC;AAE7E,MAAM,WAAY,gBAAgB;IAC9B,UAAU,EAAE,MAAM,CAAC;IACnB,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,CAAC,EAAE,kBAAkB,CAAE;IAC3B,QAAQ,CAAC,EAAE,wBAAwB,CAAC;CACvC"}
