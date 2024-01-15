@@ -36,9 +36,10 @@ Usage
    kashierService.generateOrderUrl(ORDER_DTO , OPTIONALS ); // return string (url to pay)
   kashierService.isSuccessfulPayment(TRANSITION_RESPONSE); // return boolean
     ```
+
 Note
 ----
-If you need any non exists operation , you are welcome to order it . <br>
+
 Contact me on : <br>
 &nbsp;&nbsp;Email : [elboray.alaa1@gmail.com](mailto:elboray.alaa1@gmail.com) <br>
 &nbsp;&nbsp;whatsapp : [+201063745208](https://wa.me/201063745208)

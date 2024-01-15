@@ -25,6 +25,10 @@
     "email": "elboray.alaa1@gmail.com",
     "url": "https://alaahany.name"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alaa-hany-elsaid/kashier-gateway-nodejs.git"
+  },
   "license": "MIT",
   "dependencies": {
     "@nestjs/common": "^10.3.0",
